@@ -1,0 +1,25 @@
+Summary
+
+- Overall, the data has examined 39,170 students across 15 schools. The average maths score was 70.34%, with the average reading score slightly lower at 69.98%.
+
+- 86% and 64% of the cohort passed their maths and reading exams respectively. 
+  This passing range varied from school to school - the lowest math score belonging to Hernandez High School (80.95%) 
+  and highest belonging to Wright High School (91.78%).
+
+
+- There is no strong increasing/declining trend in average maths and reading scores as students progress from Year 9 to 12, 
+  with a variance of 2-3 percentage points per school observed 
+
+- Surprisingly, as the spend per student increased across our schools, the average maths and reading scores both display a decreasing trend. 
+  For example, spending in the range of <$585 resulted in an average Maths Score of 71.37%. Contrasting this, the max spendng range of $645-680 
+  per student results in a 68.88% average Maths Score.
+
+- Smaller schools (less than 1000 students) achieved higher average scores and higher percentage pass marks across both maths and reading, 
+  followed by medium (1000-2000) and large (2000-5000).
+
+- Independent schools attracted higher average scores & % passing rates when compared to their Government school counterparts. For example, the passing
+  rate for maths in independent schools was 88.7%, whereas Government schools scored a 84.9% pass rate. 
+
+
+Conclusion
+The ideal environment for high test scores & passing rates are observed in small, independent schools with a comparatively low spend per student. 
